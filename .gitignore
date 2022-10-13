@@ -1,0 +1,7 @@
+.vscode
+main
+a.out
+*.o
+*.d
+demo
+load_funcs
